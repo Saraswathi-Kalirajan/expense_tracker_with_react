@@ -9,7 +9,6 @@ A simple Expense Tracker app built with React, Context API, and useReducer.
 Track your income and expenses, categorize them, and visualize your spending.
 
 
-
  🔹 Features
 
  💰 Add income and expense transactions
@@ -18,7 +17,6 @@ Track your income and expenses, categorize them, and visualize your spending.
  📈 View balance, total income, and total expenses
  📊 Pie Chart for visualizing income vs expenses
  🌐 Responsive and interactive UI
-
 
 
  🛠 Technologies Used
@@ -35,26 +33,22 @@ Track your income and expenses, categorize them, and visualize your spending.
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/expense_tracker_with_react.git
+  git clone https://github.com/YOUR_USERNAME/expense_tracker_with_react.git
 
 
 2. Navigate to the project folder
 
-```bash
-cd expense_tracker_with_react
-```
+  cd expense_tracker_with_react
+
 
 3. Install dependencies
 
-```bash
-npm install
-```
+  npm install
+
 
 4. Start the development server
 
-```bash
-npm start
-```
+  npm start
 
 5. Open in browser
    Go to [http://localhost:3000](http://localhost:3000)

@@ -34,9 +34,9 @@ Track your income and expenses, categorize them, and visualize your spending.
  🚀 Installation & Setup
 
 1. Clone the repository
-```bash
+
 git clone https://github.com/YOUR_USERNAME/expense_tracker_with_react.git
-````
+
 
 2. Navigate to the project folder
 
